@@ -52,6 +52,6 @@ The project is organized into three main files:
 - Abanoub Saweris.
 - Yousef Osama.
 - Ibram Adel.
-- Kenzy Adel.
+- Karen Samuel.
 - Maria Kiser.
 - Losia Awny.
